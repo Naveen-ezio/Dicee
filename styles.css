@@ -11,6 +11,9 @@
 .whole{
   background-color: #232931;
   background-image: url(images/Travern.jpg);
+    background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
 }
 body {
   margin: 0;
