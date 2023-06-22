@@ -13,6 +13,8 @@
   background-image: url(images/Travern.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 body {
   margin: 0;
